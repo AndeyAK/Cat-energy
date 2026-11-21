@@ -26,7 +26,7 @@ Tech Stack
 
 Project Demo
 
-"View live demo" (ADD_LIVE_DEMO_URL_HERE)
+"View live demo" (https://andeyak.github.io/Cat-energy/)
 
 Getting Started
 
@@ -42,11 +42,11 @@ To run the project locally:
 
 3. Install dependencies:
    
-   npm install
+   pnpm install
 
 4. Start the development workflow:
    
-   npm start
+   pnpm start
 
 Check the "package.json" file for available scripts.
 
